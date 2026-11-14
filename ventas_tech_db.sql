@@ -84,7 +84,7 @@ INSERT INTO Categorias (id_categoria, nombre_categoria, descripcion) VALUES
 
 
  -- 4. VALIDACION
-SELECT * FROM categorias;   
-SELECT * FROM clientes;     
-SELECT * FROM productos;    
-SELECT * FROM ventas;       
+SELECT * FROM Categorias;   
+SELECT * FROM Clientes;     
+SELECT * FROM Productos;    
+SELECT * FROM Ventas;       
